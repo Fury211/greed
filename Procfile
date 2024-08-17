@@ -1,1 +1,1 @@
-web: python -OO core.py
+python -OO core.py
